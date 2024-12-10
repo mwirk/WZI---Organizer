@@ -1,1 +1,1 @@
-# WZI---Organizer
+# WZI-Organizer
