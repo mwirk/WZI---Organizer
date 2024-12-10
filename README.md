@@ -2,4 +2,4 @@
 # Członkowie:
 ## Michał Wirkowski
 ## Mateusz Klemann 
-## Piotr Gruchałą
+## Piotr Gruchała
